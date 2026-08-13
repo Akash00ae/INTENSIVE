@@ -1,0 +1,6 @@
+{
+  "name": "INTENSIVE",
+  "description": "Premium bodybuilding & fitness coaching platform by SR Abhishek featuring structured workout tracking, progressive overload, transformation monitoring, nutrition, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
